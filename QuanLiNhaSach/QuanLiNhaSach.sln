@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLiNhaSach", "QuanLiNhaSach\QuanLiNhaSach.csproj", "{33956F85-CA11-442A-89B5-34C5489EE3DA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{7B89DF37-7D23-4F5A-9933-45BA29E90A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33956F85-CA11-442A-89B5-34C5489EE3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33956F85-CA11-442A-89B5-34C5489EE3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33956F85-CA11-442A-89B5-34C5489EE3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33956F85-CA11-442A-89B5-34C5489EE3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B89DF37-7D23-4F5A-9933-45BA29E90A2B}.Debug|Any CPU.ActiveCfg = Debug
+		{7B89DF37-7D23-4F5A-9933-45BA29E90A2B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5994B1B3-CD57-4230-AB20-D7315B262801}
+	EndGlobalSection
+EndGlobal
